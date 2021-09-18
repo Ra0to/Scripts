@@ -1,5 +1,5 @@
 # Scripts
-Some usefull scripts that I wrote for automation tasks.
+Several useful scripts that I wrote for automation of tasks.
 
 # Numlock.vbs
 This VisualBasic Script emulate NumLock key press.
